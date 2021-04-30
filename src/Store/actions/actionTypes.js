@@ -1,0 +1,2 @@
+export const SET_SAVINGS = 'SET_SAVINGS';
+export const CHANGE_EXPENDITURE = 'CHANGE_EXPENDITURE';
